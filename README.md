@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **BilalHadid/BilalHadid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
@@ -36,7 +35,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mern Stack ...
+- 🔭 I’m currently working on Mern Stack with 1.5+ year experience ...
 - 🌱 I’m currently learning ... AWS CDK
 - ⚡ Fun fact: ...
 
