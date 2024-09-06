@@ -36,7 +36,7 @@
 Here are some ideas to get you started:
 
 - 🔭 A passionate Full Stack developer ...
-- 🌱 I’m currently learning ... AWS CDK
+- 🌱 I’m currently learning ... K8s
 - ⚡ Fun fact: ...
 
 - 😄Sorry For Private Repo
