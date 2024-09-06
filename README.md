@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BilalHadid&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Bilal's GitHub Stats">
+<img src="https://img.shields.io/badge/Performance-A%2B-brightgreen" alt="Performance: A+">
 
 ---
 
