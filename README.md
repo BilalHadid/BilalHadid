@@ -15,20 +15,14 @@
 </div>
 
 ### About Me 🚀
-🎓 I am a passionate Full Stack Developer leveraging a background in building more dynamic and interactive websites. 🌱 I’m currently enhancing my skills in cloud-native technologies, specifically Kubernetes (K8s). 🛠
+Hi there! 👋 I’m Bilal Hadid, and I wear many hats in my tech journey. By day, I’m a Technical Manager at Devolic, where I lead the development of mobile apps, TV applications, websites, and dashboards. I manage both the backend and frontend teams, ensuring smooth project flow from planning to deployment — all while staying hands-on with the code myself. 🚀
 
-### What I'm focusing on 👨‍💻
-Currently improving my tech stack and deep diving into cloud infrastructure and distributed systems.
+But that’s not all! I’m also a Full Stack Developer with deep expertise in React Native, MERN Stack, Docker, and Kubernetes. Whether it’s crafting a sleek mobile experience, building powerful backends, or deploying scalable systems in the cloud, I love solving real-world problems through technology. 📱💻
 
-### Fun Facts ⚡
-- I love to explore new technologies and leverage them to solve real-life problems.
-- I'm an avid reader and enjoy music and gaming in my free time.
+At Devolic, I get to work on diverse projects — from apps you use on your phone to admin dashboards that power entire businesses. Leading a team while staying deeply technical gives me the best of both worlds, and I thrive on that challenge. 💪
 
-### 📕 Latest Blog Posts
+Technology is my passion, and I’m always exploring new tools, frameworks, and ways to improve performance and user experience. Let’s connect and build something awesome together!
 
-<!-- BLOG-POST-LIST:START -->
-- [Why Kubernetes is the Future of Cloud Infrastructure](https://dev.to/bilalhadid)
-- [Building a Full-Stack App with React and Node](https://dev.to/bilalhadid)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 GitHub Activity Graph
