@@ -58,22 +58,7 @@ I care about clean architecture, performance, and great user experience, and I'm
 | ⚙️ **Backend** | APIs and scalable services on the MERN stack |
 | ☁️ **Infrastructure** | Containerized deployments with Docker & Kubernetes |
 
----
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BilalHadid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalHadid&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalHadid&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%">
-
-</div>
-
----
 
 <div align="center">
 
