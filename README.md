@@ -19,7 +19,7 @@
 I'm a founder and engineer who enjoys turning ideas into products people actually use.
 
 - **Co-Founder at [Devolic](#)** — I lead the delivery of mobile apps, TV applications, websites, and admin dashboards, overseeing both frontend and backend teams from planning through deployment.
-- **Founder of [Hadid Horizon](#)** — *[One line on what Hadid Horizon does and who it serves.]*
+- **Founder of [Hadid Horizon](#)** — A global sourcing and trade company connecting manufacturers with international markets.
 - **Hands-on engineer** — Even while leading teams, I stay close to the code, with deep expertise in React Native, the MERN stack, and cloud-native infrastructure.
 
 I care about clean architecture, performance, and great user experience, and I'm always exploring new tools that help teams ship faster and more reliably.
